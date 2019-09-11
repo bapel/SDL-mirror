@@ -5,3 +5,4 @@
 tests/*/*.bmp
 tests/*/*.dat
 tests/*/*.wav
+*.vcxproj.user
