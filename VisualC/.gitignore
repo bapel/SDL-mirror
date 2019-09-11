@@ -1,0 +1,7 @@
+/.vs
+/Win32
+/*/Win32
+/*/*/Win32
+tests/*/*.bmp
+tests/*/*.dat
+tests/*/*.wav
